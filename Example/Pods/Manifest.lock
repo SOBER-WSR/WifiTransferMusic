@@ -1,0 +1,16 @@
+PODS:
+  - WifiTransferMusic (0.1.0)
+
+DEPENDENCIES:
+  - WifiTransferMusic (from `../`)
+
+EXTERNAL SOURCES:
+  WifiTransferMusic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WifiTransferMusic: a3b16eed422023a3db493bceca8603918d38cacc
+
+PODFILE CHECKSUM: 1d25128dde516c87dea3b109532de5102475cd74
+
+COCOAPODS: 1.11.2

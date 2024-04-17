@@ -1,0 +1,6 @@
+framework module WifiTransferMusic {
+  umbrella header "WifiTransferMusic-umbrella.h"
+
+  export *
+  module * { export * }
+}
